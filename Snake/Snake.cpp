@@ -125,7 +125,7 @@ void game_Window() {
                 std::cout << "*";
             }
             else if (i == y && j == x) {
-                std::cout << "S";
+                std::cout << "O";
             }
             else if (i == targetY && j == targetX) {
                 std::cout << "X";
@@ -134,7 +134,7 @@ void game_Window() {
                 bool tail = false;
                 for (int k = 0; k < tailLength; k++) {
                     if (j == tailX[k] && i == tailY[k]) {
-                        std::cout << "s";
+                        std::cout << "o";
                         tail = true;
                     }
                 }

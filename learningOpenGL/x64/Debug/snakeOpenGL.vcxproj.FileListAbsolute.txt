@@ -1,0 +1,2 @@
+H:\Coding\CPP\snakeOpenGL\x64\Debug\learningOpenGL.exe
+H:\Coding\CPP\snakeOpenGL\x64\Debug\learningOpenGL.pdb
